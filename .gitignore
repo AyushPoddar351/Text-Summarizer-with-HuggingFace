@@ -2,3 +2,5 @@ zip
 venv
 logs
 artifacts
+.vscode
+__pycache__
