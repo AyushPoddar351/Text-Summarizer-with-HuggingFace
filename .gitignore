@@ -4,3 +4,5 @@ logs
 artifacts
 .vscode
 __pycache__
+*.zip
+Dataset
